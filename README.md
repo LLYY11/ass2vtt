@@ -24,5 +24,5 @@
 2. 克隆或下载：
   - `git clone https://github.com/LLYY11/ass2vtt.git`
   - `cd ass2vtt`
-📥 **Windows 用户下载**  
-[Download ass2vtt.exe (v1.0.0)](https://github.com/LLYY11/ass2vtt/releases/latest/download/ass2vtt.exe)
+  - 📥 **Windows 用户下载**
+  - [Download ass2vtt.exe (v1.0.0)](https://github.com/LLYY11/ass2vtt/releases/latest/download/ass2vtt.exe)
