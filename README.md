@@ -22,5 +22,5 @@
 
 1. Star 本仓库（如果觉得有用 ❤️）
 2. 克隆或下载：
-- `git clone https://github.com/LLYY11/ass2vtt.git`
-- `cd ass2vtt`
+  `git clone https://github.com/LLYY11/ass2vtt.git`
+  `cd ass2vtt`
